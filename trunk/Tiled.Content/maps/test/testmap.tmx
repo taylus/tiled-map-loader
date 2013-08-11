@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="23" height="22" tilewidth="16" tileheight="16">
+ <properties>
+  <property name="map_name" value="Test Map"/>
+ </properties>
+ <tileset firstgid="1" name="lttp_castlebasement1" tilewidth="16" tileheight="16">
+  <image source="lttp_castlebasement1.png" width="1184" height="1006"/>
+ </tileset>
+ <layer name="floor " width="23" height="22">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC/vGxsDwbRSP4lE8ikfxKB7FwxIDAAWMI8voBwAA
+  </data>
+ </layer>
+ <layer name="walls" width="23" height="22">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3Ouw4BURCA4dlToNK7lG4lBaXX0KgELV4A70Hn0hBq9KL3DChQ6v2SLU6xkTh7NlGcSb5u5s8oEWlEIAmFCaYWzTD32xdccQvpjgee2t+fdtkTqaAVM1flvuYFt+txkRU7awND7kcYf2m/2DOZk2v/XfvombWbyrVd2077jIX63TKgnUqIpJFBFrkQ8iigiJKvjQ66IfXQx0Brb7C1YIc9Dlo7Km8YQabg6AcAAA==
+  </data>
+ </layer>
+</map>
